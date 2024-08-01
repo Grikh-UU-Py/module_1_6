@@ -18,6 +18,6 @@ print(my_set.add(4))
 print(my_set.add(5))
 print(my_set)
 #Удалите один любой элемент из множества my_set.
-print(my_set.discard(2))
+print(my_set.pop())
 #Выведите на экран измененное множество my_set.
 print(my_set)
